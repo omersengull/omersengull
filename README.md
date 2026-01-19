@@ -30,4 +30,4 @@
 </p>
 
 ## 🐍 GitHub Snake Game
-![Snake animation](https://github.com/omersengul/omersengul/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/omersengull/omersengull/blob/output/github-snake-dark.svg)
