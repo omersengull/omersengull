@@ -28,3 +28,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=omersengull&show_icons=true&theme=radical" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omersengull&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+## 🐍 GitHub Snake Game
+![Snake animation](https://github.com/omersengul/omersengul/blob/output/github-snake-dark.svg)
