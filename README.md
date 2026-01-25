@@ -12,29 +12,14 @@
 
 ### 🛠 Tech Stack
 
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" height="40" alt="csharp" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dotnet.svg" height="40" alt="dotnet" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" height="40" alt="js" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" height="40" alt="ts" />
-</p>
+💻 Frontend & Frameworks
+<p> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" height="40" title="Next.js" />&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" title="React" />&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40" title="TypeScript" />&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40" title="JavaScript" />&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" title="Tailwind CSS" />&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40" title="HTML5" />&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40" title="CSS3" /> </p>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" height="40" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" height="40" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jquery.svg" height="40" alt="jquery" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blazor.svg" height="40" alt="blazor" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" height="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vuedotjs.svg" height="40" alt="vue" />
-</p>
+🗄️ Database & Deployment
+<p> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Supabase_logo.svg" height="40" title="Supabase" />&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_classic.svg" height="40" title="PostgreSQL" />&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="40" title="MongoDB" />&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_and_wordmark.svg" height="40" title="Vercel" /> </p>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg" height="40" alt="mssql" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" height="40" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" height="40" alt="postgres" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redis.svg" height="40" alt="redis" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" height="40" alt="mongodb" />
-</p>
+🛠️ Tools & Libraries
+<p> <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" height="30" title="npm" />&nbsp; <img src="https://raw.githubusercontent.com/oven-sh/bun/main/packages/bun-types/logo.svg" height="40" title="Bun" />&nbsp; <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/app-window.svg" height="40" title="Lucide Icons" /> </p>
 ---
 
 ### 📊 GitHub Stats
