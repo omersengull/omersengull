@@ -12,27 +12,29 @@
 
 ### 🛠 Tech Stack
 
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" height="40" alt="csharp" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dotnet.svg" height="40" alt="dotnet" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" height="40" alt="js" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" height="40" alt="ts" />
+</p>
 
-<br/>
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" height="40" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" height="40" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jquery.svg" height="40" alt="jquery" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blazor.svg" height="40" alt="blazor" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" height="40" alt="react" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vuedotjs.svg" height="40" alt="vue" />
+</p>
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg" height="40" alt="mssql" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" height="40" alt="postgres" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redis.svg" height="40" alt="redis" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" height="40" alt="mongodb" />
+</p>
 ---
 
 ### 📊 GitHub Stats
