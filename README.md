@@ -20,7 +20,7 @@
   <img src="https://svgl.app/library/javascript.svg" height="40" title="JavaScript" style="vertical-align:middle"/>
   <img src="https://svgl.app/library/tailwindcss.svg" height="40" title="Tailwind CSS" style="vertical-align:middle"/>
   <img src="https://svgl.app/library/html5.svg" height="40" title="HTML5" style="vertical-align:middle"/>
-  <img width="46" src="https://img.icons8.com/color/48/css3.png" alt="css3" style="vertical-align:middle"/>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 </p>
 
 🗄️ Database & Deployment
