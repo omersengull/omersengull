@@ -14,13 +14,13 @@
 
 💻 Frontend & Frameworks
 <p align="left">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs" style="vertical-align:middle"/>
-  <img src="https://simpleicons.org/icons/react.svg" height="40" title="React" style="vertical-align:middle"/>
-  <img src="https://svgl.app/library/typescript.svg" height="40" title="TypeScript" style="vertical-align:middle"/>
-  <img src="https://svgl.app/library/javascript.svg" height="40" title="JavaScript" style="vertical-align:middle"/>
-  <img src="https://svgl.app/library/tailwindcss.svg" height="40" title="Tailwind CSS" style="vertical-align:middle"/>
-  <img src="https://svgl.app/library/html5.svg" height="40" title="HTML5" style="vertical-align:middle"/>
- <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1920px-CSS3_logo_and_wordmark.svg.png" alt="css3"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/>
+  <img src="https://simpleicons.org/icons/react.svg" height="40" title="React"/>
+  <img src="https://svgl.app/library/typescript.svg" height="40" title="TypeScript"/>
+  <img src="https://svgl.app/library/javascript.svg" height="40" title="JavaScript" />
+  <img src="https://svgl.app/library/tailwindcss.svg" height="40" title="Tailwind CSS" />
+  <img src="https://svgl.app/library/html5.svg" height="40" title="HTML5"/>
+  <img height="40" src="https://img.icons8.com/fluency/48/css3.png" title="CSS3" alt="css3"/>
 </p>
 
 🗄️ Database & Deployment
