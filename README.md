@@ -20,7 +20,7 @@
   <img src="https://svgl.app/library/javascript.svg" height="40" title="JavaScript" />
   <img src="https://svgl.app/library/tailwindcss.svg" height="40" title="Tailwind CSS" />
   <img src="https://svgl.app/library/html5.svg" height="40" title="HTML5"/>
-  <img height="40" src="https://img.icons8.com/fluency/48/css3.png" title="CSS3" alt="css3"/>
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1920px-CSS3_logo_and_wordmark.svg.png" title="CSS3" alt="css3"/>
 </p>
 
 🗄️ Database & Deployment
