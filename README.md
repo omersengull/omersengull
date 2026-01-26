@@ -19,7 +19,7 @@
   <img src="https://svgl.app/library/typescript.svg" height="40" title="TypeScript"/>
   <img src="https://svgl.app/library/javascript.svg" height="40" title="JavaScript" />
   <img src="https://svgl.app/library/tailwindcss.svg" height="40" title="Tailwind CSS" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/HTML5_logo_resized.svg" height="48" title="HTML5"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/500px-HTML5_logo_and_wordmark.svg.png" height="48" title="HTML5"/>
   <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1920px-CSS3_logo_and_wordmark.svg.png" title="CSS3" alt="css3"/>
 </p>
 
