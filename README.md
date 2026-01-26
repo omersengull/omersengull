@@ -13,15 +13,15 @@
 ### 🛠 Tech Stack
 
 💻 Frontend & Frameworks
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/>
-  <img src="https://simpleicons.org/icons/react.svg" height="40" title="React" />
-  <img src="https://svgl.app/library/typescript.svg" height="40" title="TypeScript" />
-  <img src="https://svgl.app/library/javascript.svg" height="40" title="JavaScript" />
-  <img src="https://svgl.app/library/tailwindcss.svg" height="40" title="Tailwind CSS" />
-  <img src="https://svgl.app/library/html5.svg" height="40" title="HTML5" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3" style="vertical-align: middle;"/>
-</div>
+<p align="left">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs" style="vertical-align:middle"/>
+  <img src="https://simpleicons.org/icons/react.svg" height="40" title="React" style="vertical-align:middle"/>
+  <img src="https://svgl.app/library/typescript.svg" height="40" title="TypeScript" style="vertical-align:middle"/>
+  <img src="https://svgl.app/library/javascript.svg" height="40" title="JavaScript" style="vertical-align:middle"/>
+  <img src="https://svgl.app/library/tailwindcss.svg" height="40" title="Tailwind CSS" style="vertical-align:middle"/>
+  <img src="https://svgl.app/library/html5.svg" height="40" title="HTML5" style="vertical-align:middle"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3" style="vertical-align:middle"/>
+</p>
 
 🗄️ Database & Deployment
 <p> <img src="https://svgl.app/library/supabase.svg" height="40" title="Supabase" />&nbsp; <img src="https://svgl.app/library/postgresql.svg" height="40" title="PostgreSQL" />&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/>&nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" height="40" title="Vercel" /> </p>
