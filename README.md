@@ -26,12 +26,14 @@
 
 🗄️ Database & Deployment
 <p align="left">
-<img src="https://svgl.app/library/supabase.svg" height="40" title="Supabase" style="margin-right: 10px;" />
-<img src="https://svgl.app/library/postgresql.svg" height="40" title="PostgreSQL" style="margin-right: 10px;" />
-<img src="https://img.icons8.com/color/48/mongo-db.png" width="48" height="48" alt="mongo-db" title="MongoDB" style="margin-right: 10px;" />
-<img src="https://img.icons8.com/color/48/prisma-orm.png" width="48" height="48" alt="prisma-orm" title="Prisma ORM" style="margin-right: 10px;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" height="40" title="Vercel" style="margin-right: 10px;" />
-<img src="https://svgl.app/library/cloudflare.svg" height="40" title="Cloudflare Pages" style="margin-right: 10px;" />
+<img src="https://svgl.app/library/supabase.svg" height="40" title="Supabase" style="margin-right: 15px;" />
+<img src="https://svgl.app/library/neon.svg" height="40" title="Neon (Serverless Postgres)" style="margin-right: 15px;" />
+<img src="https://svgl.app/library/postgresql.svg" height="40" title="PostgreSQL" style="margin-right: 15px;" />
+<img src="https://img.icons8.com/color/48/mongo-db.png" width="48" height="48" alt="mongo-db" title="MongoDB" style="margin-right: 15px;" />
+<img src="https://svgl.app/library/drizzle.svg" height="40" title="Drizzle ORM" style="margin-right: 15px;" />
+<img src="https://img.icons8.com/color/48/prisma-orm.png" width="48" height="48" alt="prisma-orm" title="Prisma ORM" style="margin-right: 15px;" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" height="40" title="Vercel" style="margin-right: 15px;" />
+<img src="https://svgl.app/library/cloudflare.svg" height="40" title="Cloudflare Pages" style="margin-right: 15px;" />
 <img src="https://svgl.app/library/netlify.svg" height="40" title="Netlify" />
 </p>
 
