@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: My personal portfolio and open-source contributions.
 - 🌱 I’m currently learning: Deepening my skills in Next.js, Node.js, and Database management.
-- 💬 Ask me about: JavaScript, React, Nextjs or anything related to FullStack development.
+- 💬 Ask me about: JavaScript, React, Remix, Nextjs or anything related to FullStack development.
 - 📫 How to reach me: Send me an email at omersengul061@hotmail.com
 
 ---
