@@ -30,7 +30,7 @@
 <img src="https://svgl.app/library/neon.svg" height="40" title="Neon (Serverless Postgres)" style="margin-right: 15px;" />
 <img src="https://svgl.app/library/postgresql.svg" height="40" title="PostgreSQL" style="margin-right: 15px;" />
 <img src="https://img.icons8.com/color/48/mongo-db.png" width="40" height="40" alt="mongo-db" title="MongoDB" style="margin-right: 15px;" />
-<img src="https://svgl.app/library/drizzle.svg" height="40" title="Drizzle ORM" alt="drizzle-orm" style="margin-right: 15px;" />
+<img src="https://cdn.simpleicons.org/drizzle/C5F74F" height="40" title="Drizzle ORM" />
 <img src="https://img.icons8.com/color/48/prisma-orm.png" width="40" height="40" alt="prisma-orm" title="Prisma ORM" style="margin-right: 15px;" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" height="40" title="Vercel" style="margin-right: 15px;" />
 <img src="https://svgl.app/library/cloudflare.svg" height="40" title="Cloudflare Pages" style="margin-right: 15px;" />
