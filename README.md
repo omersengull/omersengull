@@ -27,10 +27,10 @@
 🗄️ Database & Deployment
 <p align="left">
 <img src="https://svgl.app/library/supabase.svg" height="40" title="Supabase" style="margin-right: 15px;" />
-<img src="https://raw.githubusercontent.com/neondatabase/neon/main/neon-logo-light.svg" height="40" title="Neon (Serverless Postgres)" style="margin-right: 15px;" />
+<img src="https://www.vectorlogo.zone/logos/neondatabase/neondatabase-icon.svg" height="40" title="Neon (Serverless Postgres)" style="margin-right: 15px;" />
 <img src="https://svgl.app/library/postgresql.svg" height="40" title="PostgreSQL" style="margin-right: 15px;" />
 <img src="https://img.icons8.com/color/48/mongo-db.png" width="40" height="40" alt="mongo-db" title="MongoDB" style="margin-right: 15px;" />
-<img src="https://raw.githubusercontent.com/svgl-app/svgl/main/static/library/drizzle.svg" height="40" title="Drizzle ORM" alt="drizzle-orm" style="margin-right: 15px;" />
+<img src="https://raw.githubusercontent.com/half-stack-software/drizzle-orm-logo/main/drizzle-orm-logo.png" height="40" title="Drizzle ORM" alt="drizzle-orm" style="margin-right: 15px;" />
 <img src="https://img.icons8.com/color/48/prisma-orm.png" width="40" height="40" alt="prisma-orm" title="Prisma ORM" style="margin-right: 15px;" />
 <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="35" title="Vercel" style="margin-right: 15px;" />
 <img src="https://svgl.app/library/cloudflare.svg" height="40" title="Cloudflare Pages" style="margin-right: 15px;" />
