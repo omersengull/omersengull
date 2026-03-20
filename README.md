@@ -14,6 +14,7 @@
 
 💻 Frontend & Frameworks
 <p align="left">
+  <img src="https://svgl.app/library/remix_dark.svg" height="40" title="Remix" alt="remix"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/>
   <img src="https://simpleicons.org/icons/react.svg" height="40" title="React"/>
   <img src="https://svgl.app/library/typescript.svg" height="40" title="TypeScript"/>
@@ -24,7 +25,8 @@
 </p>
 
 🗄️ Database & Deployment
-<p> <img src="https://svgl.app/library/supabase.svg" height="40" title="Supabase" />&nbsp; <img src="https://svgl.app/library/postgresql.svg" height="40" title="PostgreSQL" />&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/>&nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" height="40" title="Vercel" /> </p>
+<p> <img src="https://svgl.app/library/supabase.svg" height="40" title="Supabase" />&nbsp; <img src="https://svgl.app/library/postgresql.svg" height="40" title="PostgreSQL" />&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/>&nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" height="40" title="Vercel" /><img src="https://svgl.app/library/cloudflare.svg" height="40" title="Cloudflare Pages" />&nbsp;
+<img src="https://svgl.app/library/netlify.svg" height="40" title="Netlify" /> </p>
 
 🛠️ Tools & Libraries
 <p> <img src="https://svgl.app/library/bun.svg" height="40" title="Bun" />&nbsp; <img src="https://svgl.app/library/npm.svg" height="35" title="npm" /> </p>
