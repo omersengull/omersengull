@@ -25,8 +25,15 @@
 </p>
 
 🗄️ Database & Deployment
-<p> <img src="https://svgl.app/library/supabase.svg" height="40" title="Supabase" />&nbsp; <img src="https://svgl.app/library/postgresql.svg" height="40" title="PostgreSQL" />&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/>&nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" height="40" title="Vercel" /><img src="https://svgl.app/library/cloudflare.svg" height="20" title="Cloudflare Pages" />&nbsp;
-<img src="https://svgl.app/library/netlify.svg" height="40" title="Netlify" /> </p>
+<p align="left">
+<img src="https://svgl.app/library/supabase.svg" height="40" title="Supabase" style="margin-right: 10px;" />
+<img src="https://svgl.app/library/postgresql.svg" height="40" title="PostgreSQL" style="margin-right: 10px;" />
+<img src="https://img.icons8.com/color/48/mongo-db.png" width="48" height="48" alt="mongo-db" title="MongoDB" style="margin-right: 10px;" />
+<img src="https://img.icons8.com/color/48/prisma-orm.png" width="48" height="48" alt="prisma-orm" title="Prisma ORM" style="margin-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" height="40" title="Vercel" style="margin-right: 10px;" />
+<img src="https://svgl.app/library/cloudflare.svg" height="40" title="Cloudflare Pages" style="margin-right: 10px;" />
+<img src="https://svgl.app/library/netlify.svg" height="40" title="Netlify" />
+</p>
 
 🛠️ Tools & Libraries
 <p> <img src="https://svgl.app/library/bun.svg" height="40" title="Bun" />&nbsp; <img src="https://svgl.app/library/npm.svg" height="35" title="npm" /> </p>
